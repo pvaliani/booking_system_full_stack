@@ -4,7 +4,7 @@ import Course from "./Course"
 
 const CourseDisplay = ({courses}) => {
 
-    const courseList = courses.map(() => {
+    const courseList = courses.map((course) => {
 
         // React component has to return something i.e course component via course id
    
@@ -26,7 +26,6 @@ const CourseDisplay = ({courses}) => {
 
     )
 
-  
 
     }
 

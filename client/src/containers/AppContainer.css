@@ -3,6 +3,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    background-color: aqua;
 }
 
 #list {
@@ -10,8 +11,10 @@
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: space-around;
+    background-color:greenyellow;
 }
 
 #info {
     border: 5px solid black;
+    background-color: grey;
 }

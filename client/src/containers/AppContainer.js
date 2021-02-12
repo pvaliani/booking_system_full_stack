@@ -1,4 +1,4 @@
-import CourseDisplay from "../components/Course/CourseDisplay"
+import CourseDisplay from "../components/Courses/CourseDisplay"
 import BookingDisplay from "../components/Bookings/BookingDisplay"
 import CustomerDisplay from "../components/Customers/CustomerDisplay"
 import "./AppContainer.css"
