@@ -1,4 +1,4 @@
-// course Component takes in a course object
+// course Component takes in a course object from the display and then renders the object properties in the view
 
 const Course = ({course}) => {
 

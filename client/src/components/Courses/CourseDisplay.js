@@ -6,7 +6,7 @@ const CourseDisplay = ({courses}) => {
 
     const courseList = courses.map((course) => {
 
-        // React component has to return something i.e course component via course id
+        // map each course object to a list and return the course object and its ID to the Course component
    
         return(
             <Course course={course} key={course.id}/>
